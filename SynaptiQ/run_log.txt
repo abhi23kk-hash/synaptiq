@@ -1,0 +1,263 @@
+[2025-12-15 15:38:36] Successfully processed: Back to the Baseline: Examining Baseline Effects on Explainability Metrics
+[2025-12-16 02:26:34] Successfully processed: Script Gap: Evaluating LLM Triage on Indian Languages in Native vs Roman Scripts in a Real World Setting
+[2025-12-17 02:21:30] Successfully processed: Superposition as Lossy Compression: Measure with Sparse Autoencoders and Connect to Adversarial Vulnerability
+[2025-12-17 14:23:21] Successfully processed: Massive Editing for Large Language Models Based on Dynamic Weight Generation
+[2025-12-18 02:22:41] Successfully processed: Intersectional Fairness in Vision-Language Models for Medical Image Disease Classification
+[2025-12-19 02:25:38] Successfully processed: Single-View Shape Completion for Robotic Grasping in Clutter
+[2025-12-20 02:18:21] Successfully processed: MRG-R1: Reinforcement Learning for Clinically Aligned Medical Report Generation
+[2025-12-21 02:33:01] Successfully processed: EPSM: A Novel Metric to Evaluate the Safety of Environmental Perception in Autonomous Driving
+[2025-12-22 02:32:19] Successfully processed: Imputation Uncertainty in Interpretable Machine Learning Methods
+[2025-12-23 02:28:10] Failed to fetch from ArXiv.
+[2025-12-24 02:25:01] Successfully processed: Point What You Mean: Visually Grounded Instruction Policy
+[2025-12-25 02:27:32] Successfully processed: AprielGuard
+[2025-12-26 02:26:37] Successfully processed: Beyond Context: Large Language Models Failure to Grasp Users Intent
+[2025-12-27 02:24:02] Successfully processed: LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing
+[2025-12-28 02:39:32] Successfully processed: Learning Generalizable Hand-Object Tracking from Synthetic Demonstrations
+[2025-12-29 02:37:42] Successfully processed: Morality is Contextual: Learning Interpretable Moral Contexts from Human Data with Probabilistic Clustering and Large Language Models
+[2025-12-30 02:28:38] Successfully processed: Emergence of Human to Robot Transfer in Vision-Language-Action Models
+[2025-12-31 02:28:05] Successfully processed: AnyMS: Bottom-up Attention Decoupling for Layout-guided and Training-free Multi-subject Customization
+[2026-01-01 02:40:56] Successfully processed: Foundation models on the bridge: Semantic hazard detection and safety maneuvers for maritime autonomy with vision-language models
+[2026-01-02 02:30:48] Successfully processed: Paragraph Segmentation Revisited: Towards a Standard Task for Structuring Speech
+[2026-01-03 06:31:10] Processed: Decoupling Adaptive Control in TeaStore
+[2026-01-04 01:52:16] Processed: Geometric Multi-Session Map Merging with Learned Local Descriptors
+[2026-01-05 01:52:06] Processed: From Trial to Deployment: A SEM Analysis of Traveler Adoptions to Fully Operational Autonomous Taxis
+[2026-01-06 18:31:23] Processed: SingingBot: An Avatar-Driven System for Robotic Face Singing Performance
+[2026-01-07 06:33:58] Processed: PET-TURTLE: Deep Unsupervised Support Vector Machines for Imbalanced Data Clusters
+[2026-01-08 06:34:03] Processed: Evaluating Small Decoder-Only Language Models for Grammar Correction and Text Simplification
+[2026-01-09 01:44:05] Processed: Why Commodity WiFi Sensors Fail at Multi-Person Gait Identification: A Systematic Analysis Using ESP32
+[2026-01-13 08:21:35] Processed: Mon3tr: Monocular 3D Telepresence with Pre-built Gaussian Avatars as Amortization
+[2026-01-16 08:20:53] Processed: A Risk-Stratified Benchmark Dataset for Bad Randomness (SWC-120) Vulnerabilities in Ethereum Smart Contracts
+[2026-01-16 08:25:18] Processed: LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals
+[2026-01-16 08:30:59] Processed: DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids
+[2026-01-16 08:34:13] Processed: Multi-Property Synthesis
+[2026-01-19 08:23:34] Processed: RITA: A Tool for Automated Requirements Classification and Specification from Online User Feedback
+[2026-01-19 08:27:10] Processed: AI-NativeBench: An Open-Source White-Box Agentic Benchmark Suite for AI-Native Systems
+[2026-01-19 08:29:34] Processed: Image-Text Knowledge Modeling for Unsupervised Multi-Scenario Person Re-Identification
+[2026-01-19 08:39:47] Processed: CoCoPlan: Adaptive Coordination and Communication for Multi-robot Systems in Dynamic and Unknown Environments
+[2026-01-21 08:22:39] Processed: Kakugo: Distillation of Low-Resource Languages into Small Language Models
+[2026-01-21 08:24:59] Processed: APEX-Agents
+[2026-01-25 08:19:25] Processed: HyperAlign: Hypernetwork for Efficient Test-Time Alignment of Diffusion Models
+[2026-01-28 08:22:31] Processed: From Scattered to Structured: A Vision for Automating Architectural Knowledge Management
+[2026-01-29 08:30:28] Processed: Whitespaces Don't Lie: Feature-Driven and Embedding-Based Approaches for Detecting Machine-Generated Code
+[2026-01-30 08:29:23] Processed: ProfInfer: An eBPF-based Fine-Grained LLM Inference Profiler
+[2026-01-30 08:33:05] Processed: ReactEMG Stroke: Healthy-to-Stroke Few-shot Adaptation for sEMG-Based Intent Detection
+[2026-01-30 08:38:06] Processed: MeCo: Enhancing LLM-Empowered Multi-Robot Collaboration via Similar Task Memoization
+[2026-01-30 08:48:20] Processed: A Federated and Parameter-Efficient Framework for Large Language Model Training in Medicine
+[2026-02-01 08:23:29] Processed: SERA: Soft-Verified Efficient Repository Agents
+[2026-02-02 08:34:44] Processed: ExplainerPFN: Towards tabular foundation models for model-free zero-shot feature importance estimations
+[2026-02-06 08:33:28] Processed: Modelling Pedestrian Behaviour in Autonomous Vehicle Encounters Using Naturalistic Dataset
+[2026-02-07 08:22:02] Processed: Scalable and General Whole-Body Control for Cross-Humanoid Locomotion
+[2026-02-11 08:39:14] Processed: ZK-Rollup for Hyperledger Fabric: Architecture and Performance Evaluation
+[2026-02-12 08:37:43] Processed: ReSPEC: A Framework for Online Multispectral Sensor Reconfiguration in Dynamic Environments
+[2026-02-12 08:46:26] Processed: From Circuits to Dynamics: Understanding and Stabilizing Failure in 3D Diffusion Transformers
+[2026-02-12 08:49:13] Processed: OSIL: Learning Offline Safe Imitation Policies with Safety Inferred from Non-preferred Trajectories
+[2026-02-13 08:34:43] Processed: Consistency Meets Verification: Enhancing Test Generation Quality in Large Language Models Without Ground-Truth Solutions
+[2026-02-13 08:43:29] Processed: Energy-Aware Spike Budgeting for Continual Learning in Spiking Neural Networks for Neuromorphic Vision
+[2026-02-13 08:49:35] Processed: DMind-3: A Sovereign Edge--Local--Cloud AI System with Controlled Deliberation and Correction-Based Tuning for Safe, Low-Latency Transaction Execution
+[2026-02-13 08:58:29] Processed: A Rule-based Computational Model for Gaidhlig Morphology
+[2026-02-13 09:07:23] Processed: IU-GUARD: Privacy-Preserving Spectrum Coordination for Incumbent Users under Dynamic Spectrum Sharing
+[2026-02-15 08:24:18] Processed: Performance Antipatterns: Angel or Devil for Power Consumption?
+[2026-02-17 08:37:09] Processed: Analysis of Asset Administration Shell-based Negotiation Processes for Scaling Applications
+[2026-02-19 08:35:13] Processed: Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning
+[2026-02-21 08:21:47] Processed: Improving LLM-based Recommendation with Self-Hard Negatives from Intermediate Layers
+[2026-02-21 08:28:29] Processed: Fine-Grained Uncertainty Quantification for Long-Form Language Model Outputs: A Comparative Study
+[2026-02-23 08:40:26] Processed: Understanding Unreliability of Steering Vectors in Language Models: Geometric Predictors and the Limits of Linear Approximations
+[2026-02-25 08:39:02] Processed: UDVideoQA: A Traffic Video Question Answering Dataset for Multi-Object Spatio-Temporal Reasoning in Urban Dynamics
+[2026-02-25 08:49:08] Processed: MUSE: Harnessing Precise and Diverse Semantics for Few-Shot Whole Slide Image Classification
+[2026-02-25 08:58:35] Processed: Mask-HybridGNet: Graph-based segmentation with emergent anatomical correspondence from pixel-level supervision
+[2026-02-25 09:02:21] Processed: Generative Pseudo-Labeling for Pre-Ranking with LLMs
+[2026-02-26 08:37:39] Processed: IndicIFEval: A Benchmark for Verifiable Instruction-Following Evaluation in 14 Indic Languages
+[2026-02-27 08:33:12] Processed: Test-Time Scaling with Diffusion Language Models via Reward-Guided Stitching
+[2026-02-27 08:36:33] Processed: Considering Perspectives for Automated Driving Ethics: Collective Risk in Vehicular Motion Planning
+[2026-02-27 08:46:17] Processed: Hierarchical Trajectory Planning of Floating-Base Multi-Link Robot for Maneuvering in Confined Environments
+[2026-02-27 08:55:46] Processed: RhythmBERT: A Self-Supervised Language Model Based on Latent Representations of ECG Waveforms for Heart Disease Detection
+[2026-02-27 09:00:18] Processed: Self-Purification Mitigates Backdoors in Multimodal Diffusion Language Models
+[2026-03-02 08:35:22] Processed: Geometry-based pneumatic actuators for soft robotics
+[2026-03-03 08:31:46] Processed: CausalWrap: Model-Agnostic Causal Constraint Wrappers for Tabular Synthetic Data
+[2026-03-05 08:31:51] Processed: Scalable Evaluation of the Realism of Synthetic Environmental Augmentations in Images
+[2026-03-06 08:29:14] Processed: Impact of 5G SA Logical Vulnerabilities on UAV Communications: Threat Models and Testbed Evaluation
+[2026-03-10 08:32:23] Processed: EndoSERV: A Vision-based Endoluminal Robot Navigation System
+[2026-03-11 08:31:58] Processed: MissBench: Benchmarking Multimodal Affective Analysis under Imbalanced Missing Modalities
+[2026-03-15 08:28:19] Processed: Continual Learning with Vision-Language Models via Semantic-Geometry Preservation
+[2026-03-16 08:47:22] Processed: Streaming REST APIs for Large Financial Transaction Exports from Relational Databases
+[2026-03-16 08:53:31] Processed: Why Neural Structural Obfuscation Can't Kill White-Box Watermarks for Good!
+[2026-03-17 08:42:15] Processed: AEX: Non-Intrusive Multi-Hop Attestation and Provenance for LLM APIs
+[2026-03-17 08:46:50] Processed: SFCoT: Safer Chain-of-Thought via Active Safety Evaluation and Calibration
+[2026-03-17 08:56:06] Processed: Physics-Informed Neural Systems for the Simulation of EUV Electromagnetic Wave Diffraction from a Lithography Mask
+[2026-03-17 09:01:16] Processed: HALO:Closing Sim-to-Real Gap for Heavy-loaded Humanoid Agile Motion Skills via Differentiable Simulation
+[2026-03-17 09:03:56] Processed: Directional Embedding Smoothing for Robust Vision Language Models
+[2026-03-21 08:23:00] Processed: Maximum-Entropy Exploration with Future State-Action Visitation Measures
+[2026-03-23 08:45:42] Processed: Can Large Multimodal Models Inspect Buildings? A Hierarchical Benchmark for Structural Pathology Reasoning
+[2026-03-23 08:49:31] Processed: Evaluating Evidence Grounding Under User Pressure in Instruction-Tuned Language Models
+[2026-03-26 08:44:43] Processed: A Sensorless, Inherently Compliant Anthropomorphic Musculoskeletal Hand Driven by Electrohydraulic Actuators
+[2026-03-26 08:54:31] Processed: Le MuMo JEPA: Multi-Modal Self-Supervised Representation Learning with Learnable Fusion Tokens
+[2026-03-26 08:57:48] Processed: Goal-Oriented Reactive Simulation for Closed-Loop Trajectory Prediction
+[2026-03-26 09:05:14] Processed: Optimizing Multilingual LLMs via Federated Learning: A Study of Client Language Composition
+[2026-03-27 08:42:36] Processed: Bridging the Interpretation Gap in Accessibility Testing: Empathetic and Legal-Aware Bug Report Generation via Large Language Models
+[2026-03-27 08:50:52] Processed: Beyond Detection: Rethinking Education in the Age of AI-writing
+[2026-03-27 08:55:14] Processed: PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference
+[2026-03-27 09:02:47] Processed: On the Vulnerability of Deep Automatic Modulation Classifiers to Explainable Backdoor Threats
+[2026-03-30 09:04:21] Processed: Disguising Topology and Side-Channel Information through Covert Gate- and ML-Enabled IP Camouflaging
+[2026-04-04 08:32:32] Processed: PrivHAR-Bench: A Graduated Privacy Benchmark Dataset for Video-Based Action Recognition
+[2026-04-06 09:01:36] Processed: Elastomeric Strain Limitation for Design of Soft Pneumatic Actuators
+[2026-04-06 09:11:43] Processed: AI-Assisted Unit Test Writing and Test-Driven Code Refactoring: A Case Study
+[2026-04-06 09:21:38] Processed: Verbalizing LLMs' assumptions to explain and control sycophancy
+[2026-04-06 09:30:25] Processed: SkillRT: Compiling Skills for Efficient Execution Everywhere
+[2026-04-06 09:39:20] Processed: A Flow Matching Framework for Soft-Robot Inverse Dynamics
+[2026-04-08 08:53:58] Processed: T2T: Captioning Smartphone Activities Using Mobile Traffic
+[2026-04-09 08:59:32] Processed: CODESTRUCT: Code Agents over Structured Action Spaces
+[2026-04-10 09:00:51] Processed: SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds
+[2026-04-13 09:29:40] Processed: NyayaMind- A Framework for Transparent Legal Reasoning and Judgment Prediction in the Indian Legal System
+[2026-04-16 09:10:24] Processed: SIR-Bench: Evaluating Investigation Depth in Security Incident Response Agents
+[2026-04-16 09:14:42] Processed: Design and Behavior of Sparse Mixture-of-Experts Layers in CNN-based Semantic Segmentation
+[2026-04-16 09:22:36] Processed: Adaptive Conformal Prediction for Improving Factuality of Generations by Large Language Models
+[2026-04-18 08:40:17] Processed: World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems
+[2026-04-18 08:43:40] Processed: Towards Personalizing Secure Programming Education with LLM-Injected Vulnerabilities
+[2026-04-18 08:46:36] Processed: Evaluating LLMs Code Reasoning Under Real-World Context
+[2026-04-18 08:51:26] Processed: An Axiomatic Benchmark for Evaluation of Scientific Novelty Metrics
+[2026-04-18 08:54:52] Processed: MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation
+[2026-04-21 09:18:40] Processed: Memory Centric Power Allocation for Multi-Agent Embodied Question Answering
+[2026-04-26 08:51:33] Processed: Revisiting Non-Verbatim Memorization in Large Language Models: The Role of Entity Surface Forms
+[2026-04-28 10:07:12] Processed: Guiding Vector Field Generation via Score-based Diffusion Model
+[2026-04-29 09:58:53] Processed: DenseScout: Algorithm-System Co-design for Budgeted Tiny Object Selection on Edge Platforms
+[2026-04-29 10:02:39] Processed: Libra-VLA: Achieving Learning Equilibrium via Asynchronous Coarse-to-Fine Dual-System
+[2026-04-29 10:08:29] Processed: Benchmarking Layout-Guided Diffusion Models through Unified Semantic-Spatial Evaluation in Closed and Open Settings
+[2026-04-30 09:59:39] Processed: AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents
+[2026-04-30 10:02:47] Processed: ClassEval-Pro: A Cross-Domain Benchmark for Class-Level Code Generation
+[2026-04-30 10:07:26] Processed: GEGLU-Transformer for IMU-to-EMG Estimation with Few-Shot Adaptation
+[2026-05-03 09:15:49] Processed: Stochastic Entanglement of Deterministic Origami Tentacles For Universal Robotic Gripping
+[2026-05-03 09:23:31] Processed: Models Recall What They Violate: Constraint Adherence in Multi-Turn LLM Ideation
+[2026-05-09 09:10:56] Processed: From Token Lists to Graph Motifs: Weisfeiler-Lehman Analysis of Sparse Autoencoder Features
+[2026-05-11 10:54:37] Processed: Can LLMs Solve Science or Just Write Code? Evaluating Quantum Solver Generation
+[2026-05-11 11:01:12] Processed: SimCT: Recovering Lost Supervision for Cross-Tokenizer On-Policy Distillation
+[2026-05-11 11:06:21] Processed: BeeVe: Unsupervised Acoustic State Discovery in Honey Bee Buzzing
+[2026-05-11 11:11:17] Processed: Statistical inference with belief functions: A survey
+[2026-05-13 10:14:43] Processed: From Imagined Futures to Executable Actions: Mixture of Latent Actions for Robot Manipulation
+[2026-05-13 10:19:38] Processed: Fast Image Super-Resolution via Consistency Rectified Flow
+[2026-05-13 10:22:30] Processed: Reconnecting Fragmented Citation Networks with Semantic Augmentation
+[2026-05-13 10:31:43] Processed: Fill the GAP: A Granular Alignment Paradigm for Visual Reasoning in Multimodal Large Language Models
+[2026-05-13 10:40:49] Processed: The Death Spiral of Open Source Projects: A Post-Mortem Analysis of Pull Request Workflow Dynamics
+[2026-05-14 10:07:52] Processed: Many-Shot CoT-ICL: Making In-Context Learning Truly Learn
+[2026-05-19 10:55:11] Processed: A Readiness-Driven Runtime for Pipeline-Parallel Training under Runtime Variability
+[2026-05-19 10:59:49] Processed: Learning Quantifiable Visual Explanations Without Ground-Truth
+[2026-05-21 11:00:01] Processed: Fine-grained Claim-level RAG Benchmark for Law
+[2026-05-21 11:09:10] Processed: A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents
+[2026-05-23 09:44:44] Processed: Mind the Gaps: Multi-Robot Feedback-Driven Ergodic Coverage in Unknown Environments
+[2026-05-23 09:50:00] Processed: Beyond the Org Chart: AI and the Transformation of Invisible Work
+[2026-05-23 09:58:31] Processed: Lumberjack: Better Differentially Private Random Forests through Heavy Hitter Detection in Trees
+[2026-05-24 09:48:52] Processed: DeferMem: Query-Time Evidence Distillation via Reinforcement Learning for Long-Term Memory QA
+[2026-05-25 11:45:33] Processed: The Efficiency Frontier: A Unified Framework for Cost-Performance Optimization in LLM Context Management
+[2026-05-27 11:31:34] Processed: MAIGO: Mitigating Lost-in-Conversation with History-Cleaned On-Policy Self-Distillation
+[2026-05-27 11:38:26] Processed: An Efficient and Privacy-Preserving Architecture for Cross-Institutional Collaborative RAG
+[2026-05-27 11:46:36] Processed: Can Broad Biomedical Knowledge be Contextualized into Scenario-Grounded Propositions?
+[2026-06-04 10:56:37] Processed: Learning What Not to Impute: An Uncertainty-Aware Diffusion Framework for Meaningful Missingness
+[2026-06-06 09:55:59] Processed: Metamorphic Testing with the Rashomon Set: Explanation Faithfulness in Machine Learning
+[2026-06-07 10:22:25] Processed: ProSarc: Prosody-Aware Sarcasm Recognition Framework via Temporal Prosodic Incongruity
+[2026-06-07 10:26:27] Processed: Unsupervised Skill Discovery for Agentic Data Analysis
+[2026-06-07 10:35:28] Processed: From Attack Simulation to SIEM Rule: Deterministic Detection-as-Code Synthesis with Probe-Level Traceability
+[2026-06-07 10:45:29] Processed: Flow-based Policy Adaptation without Policy Updates
+[2026-06-07 10:51:19] Processed: Policy-Compliant Cloud Storage Systems
+[2026-06-11 12:03:54] Processed: KinematicRL: A Sim-to-Real Reinforcement Learning Framework For Social Navigation With Kinodynamic Feasibility
+[2026-06-11 12:06:43] Processed: Existential Indifference: Self-Nonpreservation as a Necessary Architectural Condition for Aligned Superintelligence (or: The Suicidal AI)
+[2026-06-13 10:22:27] Processed: Understanding and Detecting Scalability Faults in Large-Scale Distributed Systems
+[2026-06-20 10:27:42] Processed: Increasing Resilience of Continuum Robots via Motion Planning Algorithms
+[2026-06-20 10:37:41] Processed: Clusters are All You Need: Pre-Training the Tsetlin Machine with Semantic Clusters from Language Models for Interpretability
+[2026-06-20 10:47:47] Processed: U$^2$Mamba: A Two-level Nested U-structure Mamba for Salient Object Detection
+[2026-06-22 13:28:14] Processed: Sovereign Execution Brokers: Enforcing Certificate-Bound Authority in Agentic Control Planes
+[2026-06-22 13:37:15] Processed: Apparent Psychological Profiles of Large Language Models are Largely a Measurement Artifact
+[2026-06-22 13:45:27] Processed: Thermodynamic Measure of Intelligence
+[2026-06-22 13:49:44] Processed: Finetuning Vision-Language-Action Models Requires Fewer Layers Than You Think
+[2026-06-22 13:54:12] Processed: JAMER: Project-Level Code Framework Dataset and Benchmark on Professional Game Engines
+[2026-06-24 10:41:54] Processed: ObsGraph: Hierarchical Observation Representation for Embodied Reasoning and Exploration
+[2026-06-27 09:57:45] Processed: Do Safety Guardrails Need to Reason? LeanGuard: A Fast and Light Approach for Robust Moderation
+[2026-06-30 10:49:43] Processed: Words Speak Louder Than Code: Investigating Cognitive Heuristics in LLM-Based Code Vulnerability Detection
+[2026-07-01 11:17:51] Processed: CAN We Trust Your Results? A Cross-Dataset Study of Automotive IDS Evaluation
+[2026-07-02 10:30:01] Processed: Graph-Native Reinforcement Learning Enables Traceable Scientific Hypothesis Generation through Conceptual Recombination
+[2026-07-03 10:27:44] Processed: VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation
+[2026-07-03 10:33:24] Processed: Neuro-Symbolic Safety Guidance for Vision-Language-Action Models via Constrained Flow Matching
+[2026-07-03 10:42:21] Processed: Representation Distribution Matching for One-Step Visual Generation
+[2026-07-03 10:48:39] Processed: SkillFuzz: Fuzzing Skill Composition for Implicit Intents Discovery in Open Skill Marketplaces
+[2026-07-05 10:04:21] Processed: QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition
+[2026-07-06 11:56:51] Processed: Fourier Preconditioning for Neural Feature Learning
+[2026-07-06 12:03:08] Processed: LIB-TRAP: Standard Cell Library Hardware Trojan Risk Assessment and Prevention
+[2026-07-06 12:09:29] Processed: ArcAD: Anomaly-Rectified Calibration for Cold-Start Supervised Anomaly Detection
+[2026-07-06 12:18:33] Processed: LIME: Learning Intent-aware Camera Motion from Egocentric Video
+[2026-07-07 10:48:26] Processed: Orcaella: Hybrid Fault Tolerance with Client-Selectable Finality Latency
+[2026-07-07 10:52:45] Processed: SLAM: Structured and Localized Analytic Manifold Adaptation for Lifelong VPR
+[2026-07-07 10:59:03] Processed: Adaptive Inference Batching using Policy Gradients
+[2026-07-08 10:09:09] Processed: A Function-Space Dichotomy for Compositional Learning: Exponential Sub-Optimality of the Neural Tangent Kernel
+[2026-07-10 10:45:39] Processed: A First-Principles Theory of Slow Thinking and Active Perception
+[2026-07-10 10:49:30] Processed: Deployment Risk Assessment Using Diff-Aware Features: A Case Study at Prime Video
+[2026-07-13 10:51:31] Processed: Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift
+[2026-07-13 10:53:54] Processed: Leveraging Interpretable Tsetlin Machine for PDF Malware Detection
+[2026-07-13 10:57:52] Processed: Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents
+[2026-07-13 11:05:07] Processed: Deep Gaussian Processes on Directed Acyclic Graphs
+[2026-07-15 09:52:47] Processed: PalmClaw: A Native On-Device Agent Framework for Mobile Phones
+[2026-07-16 10:00:06] Processed: BARS: Benign-Anchored Ranking and Selection for False Alarm Reduction in Network Intrusion Detection
+[2026-07-18 09:16:34] Processed: Pretraining Data Can Be Poisoned through Computational Propaganda
+[2026-07-18 09:26:12] Processed: MARS: Multi-hop Adaptive Retrieval and SPARQL Generation for KGQA
+[2026-07-20 10:43:12] Processed: QUADS: Stabilizing NVFP4 Reinforcement Learning for MoE via QUantization-error Alignment across Dual Sides
+[2026-07-20 10:45:24] Processed: Rendering 3D Gaussians on a Graph Processor
+[2026-07-20 10:55:22] Processed: An Exam for Active Observers
+[2026-07-20 11:05:29] Processed: NeuroCommitSSM: Decision-Centric Shared Autonomy for Safe Assistive Manipulation via EEG-EMG-ET Commit Readiness
+[2026-07-20 11:13:48] Processed: NexForge: Scaling Agent Capabilities through Requirement-Driven Task Synthesis for LLMs
+[2026-07-21 10:17:29] Processed: DeLIVeR: Decomposed Learning for Information-grounded Veracity Recognition via Reinforced Knowledge Graph Exploration
+[2026-07-22 10:17:13] Processed: Exploiting Load/Store Leakage of Sparse Vectors for Key Recovery in HQC
+[2026-07-22 10:24:14] Processed: The Open Ant: A Robot Platform for Reinforcement Learning Research
+[2026-07-22 10:32:32] Processed: Incomplete Observations Boost Evolutionary Performance in Ocean Modeling
+[2026-07-27 11:11:52] Processed: IFCLoRA: Topology-Aware Rank Allocation for Parameter-Efficient Fine-Tuning
+[2026-07-27 11:19:21] Processed: CARDIAG: A Dense Segment Classification Benchmark of Deep Learning Architectures for Coronary Angiography
+[2026-07-27 11:23:04] Processed: A Preliminary Search for Evidence on Government Software Engineering Practices: Results from Three Rapid Reviews
+[2026-07-28 10:26:32] Processed: Enhancing Code Understanding for Impact Analysis by Combining Transformers and Program Dependence Graphs
+[2026-07-28 10:34:32] Processed: ACRL: Adaptive Control of Training-Inference Discrepancy for Stable Reinforcement Learning
+[2026-07-28 10:40:28] Processed: Looping Is Not Reliability: State-Bound Evidence and Typed Revision Contracts for Agentic Code Repair
+[2026-07-28 10:49:01] Processed: Retrieval-Augmented Large Language Models as Components of Cognitive Computing architecture for Regulatory Knowledge Management
+[2026-07-31 10:29:39] Processed: Low-Latency Bootstrapping for CKKS using Roots of Unity
+[2026-08-05 10:27:39] Processed: Biconvex Optimization for Smooth Minimum-Time Trajectories around Convex Obstacles
+[2026-08-05 10:37:15] Processed: Efficient Knowledge Distillation for LLMs: Offline Top-K Logits and a Fused Chunked KL Loss
+[2026-08-05 10:45:52] Processed: What the Detector Can See: Evaluating CPS Anomaly Detectors Independently of the Decision Rule
+[2026-08-05 10:52:27] Processed: CPrefix: A Combinatorial Tensor Framework for Structured Discrete Color Mappings
+[2026-08-08 08:30:05] Processed: LangChoiceBench: Measuring and Explaining Programming-Language Choice in LLMs
+[2026-08-08 08:33:56] Processed: FinEvo-Bench: A Longitudinal Benchmark for Self-Evolving Agents in Professional Financial Workflows
+[2026-08-08 08:40:33] Processed: Hardware Design and Security in the Era of Chiplets and LLMs
+[2026-08-08 08:45:00] Processed: LoginTrap: Uncovering Task-Agnostic Phishing-Style Indirect Prompt Injection Attacks against LLM-based Web Agents
+[2026-08-10 09:09:13] Processed: H2AL: Hyperbolic Hierarchy-aware Aggregative Learning for Registration-based Few-shot Medical Image Segmentation
+[2026-08-11 08:44:34] Processed: Agentic Auto-Research is Fuzz Testing
+[2026-08-16 08:18:28] Processed: Synthetic Persona Pretraining: Alignment from Token Zero
+[2026-08-18 08:25:45] Processed: GeoPose: Patient-agnostic CTA-to-DSA registration through projection-space calibration
+[2026-08-18 08:35:31] Processed: Trusted Hardware Acceleration for Function Secret Sharing
+[2026-08-18 08:40:19] Processed: What to Remember, What to Reveal: Privacy-Aware Memory for Conversational Agents
+[2026-08-18 08:45:43] Processed: Engineering Reliable Coding Agents: Evaluating and Operating the System Around the Model
+[2026-08-18 08:48:02] Processed: GEO-Flag: Detecting and Measuring GEO-Optimized Web Content
+[2026-08-20 08:27:42] Processed: Institutional Newspapers Pipeline: Deriving billions of high quality tokens from historical newspapers
+[2026-08-22 08:18:52] Processed: Auditing Cross-Lingual Fairness in Language Model Watermarking
+[2026-08-24 08:37:58] Processed: AI with Authority, from Application to Silicon
+[2026-08-24 08:47:01] Processed: QUASAR: A Quantum-Classical Neural Network for SAR Satellite Physical-Layer Authentication
+[2026-08-24 08:49:37] Processed: Towards general embodied intelligence: integrating large language models, knowledge bases, and reasoning capabilities to build the next generation of AI agents
+[2026-08-24 08:58:30] Processed: DAMOS: Learning Distortion-Aware Speech Quality Assessment through Explicit Distortion Localization
+[2026-08-26 08:33:08] Processed: Score-Based Ideal Observer Approximation via Denoising Score Matching for Signal-Known-Exactly Detection Tasks
+[2026-08-26 08:35:43] Processed: MoTE: Mixture of Task Experts for Multi-Task Video Understanding
+[2026-08-26 08:41:48] Processed: Deep Learning Super Resolution for Satellite Cloud Mask Downscaling
+[2026-08-28 19:48:18] Processed: Investigating Software Aging in LLM-Generated Software Systems across Generation-and-Execution Environments
+[2026-08-30 13:26:33] Processed: Decoupled I/O-Dominant Pipelines for Large-Scale Whole-Slide Image Embedding Extraction
+[2026-08-30 13:34:23] Processed: CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators
+[2026-09-01 12:54:51] Processed: Verification-Time Dependency on a Disappearing Evaluator
+[2026-09-01 13:03:39] Processed: Analytic Dynamics: Learning Physics-Grounded Representation for Fast Intrinsic Dynamics Inference from Monocular Videos
+[2026-09-04 12:23:56] Processed: Athena: Vulnerability-Affected Library Identification via Knowledge Graph Completion
+[2026-09-05 11:30:31] Processed: Long-Range Indirect Control-Flow Prediction in Stripped Binaries via Dual Virtual Hubs and Multi-Task Graph Learning
+[2026-09-06 11:51:09] Processed: From Ordered Bernoulli Levels to Critical-Line Geometry: Integer Quantization, Bernoulli Residual Phase, and Prime-Power Spectra
+[2026-09-08 12:26:54] Processed: A Schema Bounded Language Model for Refining Robot Policies Without Destabilizing Local Learning
+[2026-09-20 12:46:30] Processed: WiC is Not WSD: A Study on LLMs and Lexical Ambiguity Resolution
+[2026-09-24 13:03:05] Processed: Learning Collective Dynamics with Differentiable Gaussian Representations
+[2026-09-24 13:08:10] Processed: FIRE: Failure-Informed Runtime Engineering for Reliable Language-Model Agents
+[2026-09-24 13:16:27] Processed: Minimal-Norm Univariate Two-Layer ReLU Classification: Exact Solutions and Global Optimality with Skip Connections
+[2026-09-26 12:35:15] Processed: Mind What Matters for Reasoning: Aligning Cross-Modal Attention via Selective Probability Mass Concentration
+[2026-09-26 12:38:03] Processed: World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal
+[2026-09-29 14:29:10] Processed: Quantum Security of XOR of Permutations via Fourier Analysis
+[2026-09-29 14:33:27] Processed: Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning
+[2026-09-29 14:38:45] Processed: RoboFL: Federated Expert Assembly for World Action Models
+[2026-09-29 14:43:08] Processed: From Noisy Telemetry to Actionable Warnings: GPU Failure Prediction in Industrial Clusters
+[2026-09-30 14:27:33] Processed: $S^3$: Spectral Null-Space Swap Makes Reasoning Models Efficient
+[2026-10-01 14:57:42] Processed: Efficient Active Auditing of Multi-Group Fairness with Bias Probes
+[2026-10-02 14:20:44] Processed: Continuous Conditioning of VLAs with Augmenting EMG and Visual Task Descriptors
+[2026-10-02 14:29:00] Processed: CLoSeR: Closing the Loop for Long-Context Streaming Reconstruction
