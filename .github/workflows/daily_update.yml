@@ -31,8 +31,8 @@ jobs:
       - name: Configure Git Identity
         run: |
           # REPLACE WITH YOUR DETAILS
-          git config --global user.name "Muszic"
-          git config --global user.email "allaboutsangit@gmail.com"
+          git config --global user.name "Abhishek K"
+          git config --global user.email "abhi23kk@gmail.com"
 
       - name: Run Decision Engine
         env:
