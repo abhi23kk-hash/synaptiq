@@ -263,3 +263,4 @@
 [2026-10-02 14:29:00] Processed: CLoSeR: Closing the Loop for Long-Context Streaming Reconstruction
 [2026-11-24 05:46:14] Processed: Laya-IsoToken: Day-One Clinical Codebook Switching via Closed-Form Operator Compilation
 [2026-11-24 19:39:12] Processed: Quantum-Annealing-Assisted Search-Space Reduction for Large-Scale Shortest-Path Computation
+[2026-11-24 19:44:02] Processed: MUNDO: a multiresolution generative framework for temporal downscaling
