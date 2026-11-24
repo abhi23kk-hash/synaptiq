@@ -266,3 +266,4 @@
 [2026-11-24 19:44:02] Processed: MUNDO: a multiresolution generative framework for temporal downscaling
 [2026-11-24 19:49:32] Processed: RoboUniverse-10K: Toward the Scaling Era of Agentic Robotics via Real-to-Sim Environments
 [2026-11-24 19:52:18] Processed: How Do Deep Networks Encode and Selectively Use Information? Shared Encoding and Conditional Signed Readout in Vision and Language Models
+[2026-11-24 20:00:39] Processed: HoloSplat: Real-Time Token Streaming for Feed-Forward Human Reconstruction
