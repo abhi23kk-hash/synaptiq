@@ -268,3 +268,4 @@
 [2026-11-24 19:52:18] Processed: How Do Deep Networks Encode and Selectively Use Information? Shared Encoding and Conditional Signed Readout in Vision and Language Models
 [2026-11-24 20:00:39] Processed: HoloSplat: Real-Time Token Streaming for Feed-Forward Human Reconstruction
 [2026-11-25 18:46:31] Processed: Quantum kernels on breast data: concentration, surrogates, and two ways an advantage gets manufactured
+[2026-11-26 18:35:15] Processed: Model Weights, Airlocks and Sandboxes: A Call for Technical Validation of Re-identification Tests under the EDPB Anonymisation Guidelines
