@@ -271,3 +271,4 @@
 [2026-11-26 18:35:15] Processed: Model Weights, Airlocks and Sandboxes: A Call for Technical Validation of Re-identification Tests under the EDPB Anonymisation Guidelines
 [2026-11-28 10:42:05] Processed: Real Package, Wrong Controller: Static Auditing of Vendor--Protocol Mismatches in LLM-Generated PLC Code
 [2026-11-28 10:48:52] Processed: Effect of class proportion shifts on classifier curvature
+[2026-11-28 17:06:22] Processed: SoK: When FL Clients Cannot Train -- Delegated Federated Learning for IoT
